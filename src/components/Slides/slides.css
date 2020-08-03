@@ -1,0 +1,9 @@
+.slides {
+    border: 9px solid black;
+    width: 100%;
+}
+
+.slides img{
+    width: 100%;
+    height:100%;
+}
